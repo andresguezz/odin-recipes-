@@ -1,1 +1,1 @@
-simple HMTL exercise for the ODIN project
+simple HTML exercise for the ODIN project
