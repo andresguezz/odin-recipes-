@@ -1,0 +1,1 @@
+simple HMTL exercise for the ODIN project
